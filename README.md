@@ -16,9 +16,20 @@
     - https://www.burtchworks.com/2014/03/12/tips-for-hiring-data-scientists/
 
 **4. Data Science Courses**
-1. https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
-2. https://coursera-career-track.mystagingwebsite.com/data-scientist/
-3. https://www.coursera.org/learn/machine-learning
+  - Tutorials
+    - https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
+    - https://github.com/tpcarneiro/Python-Data-Science-and-Machine-Learning-Bootcamp
+    
+  - General
+    - Free! :relieved:
+      - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
+      - https://coursera-career-track.mystagingwebsite.com/data-scientist/
+      - https://www.coursera.org/learn/machine-learning
+    - Paid :disappointed_relieved:
+      - https://bigml.com/
+
+  - Beginning
+    - http://mariofilho.com/os-melhores-cursos-gratuitos-para-comecar-a-aprender-machine-learning-e-data-science/
 
   - Udacity focused
     - https://classroom.udacity.com/courses/ud170
@@ -39,8 +50,11 @@
   - Websites
     - https://www.datascienceweekly.org/
     - https://machinelearningmastery.com/
+    - https://www.dataiku.com/
   - Articles
     - https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
     - https://www.sequoiacap.com/article/visualizing-customer-experience/
     - https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
     - https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+  - E-books
+    - https://www.packtpub.com/packt/offers/free-learning
