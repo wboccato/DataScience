@@ -1,5 +1,5 @@
-## DataScience
-#Data Science Links and Documents for Study
+# DataScience
+## Data Science Links and Documents for Study
 
 **Udacity Career Guide**
 1. http://blog.udacity.com/wp-content/uploads/2017/06/Data-Career-Guide-Udacity-2017-06-13.pdf
