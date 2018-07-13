@@ -18,11 +18,9 @@
 **4. Data Science Courses**
   - Tutorials
     - https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
-    - https://github.com/tpcarneiro/Python-Data-Science-and-Machine-Learning-Bootcamp
-    
+    - https://github.com/tpcarneiro/Python-Data-Science-and-Machine-Learning-Bootcamp   
   - Beginning
     - http://mariofilho.com/os-melhores-cursos-gratuitos-para-comecar-a-aprender-machine-learning-e-data-science/
-    
   - General
     - Free! :relieved:
       - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
@@ -30,7 +28,6 @@
       - https://www.coursera.org/learn/machine-learning
     - Paid :disappointed_relieved:
       - https://bigml.com/
-
   - Udacity focused
     - https://classroom.udacity.com/courses/ud170
     - https://classroom.udacity.com/courses/cs271
