@@ -20,6 +20,9 @@
     - https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
     - https://github.com/tpcarneiro/Python-Data-Science-and-Machine-Learning-Bootcamp
     
+  - Beginning
+    - http://mariofilho.com/os-melhores-cursos-gratuitos-para-comecar-a-aprender-machine-learning-e-data-science/
+    
   - General
     - Free! :relieved:
       - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
@@ -27,9 +30,6 @@
       - https://www.coursera.org/learn/machine-learning
     - Paid :disappointed_relieved:
       - https://bigml.com/
-
-  - Beginning
-    - http://mariofilho.com/os-melhores-cursos-gratuitos-para-comecar-a-aprender-machine-learning-e-data-science/
 
   - Udacity focused
     - https://classroom.udacity.com/courses/ud170
@@ -40,9 +40,8 @@
   - Websites
     - https://www.hackerrank.com/domains/ai?filters%5Bsubdomains%5D%5B%5D=machine-learning
     - https://www.kaggle.com/competitions
-  - Competitions
+  - Hackatons
     - https://desafiodedados.com.br/#sobre
-
   - Kaggle focused
     - https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
 
