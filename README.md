@@ -62,7 +62,10 @@
   - E-books
     - https://www.packtpub.com/packt/offers/free-learning
   - Youtube
-    - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+    - Linear Algebra: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+    - Google Developers: https://www.youtube.com/watch?v=cKxRvEZd3Mw&t=12s
+    - Python Course: https://www.youtube.com/watch?v=S9uPNppGsGo&t=6s
+    - Udacity Interviwe Data Scientists: https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
   
 **7. Library search**
   - Numpy and Scipy: https://docs.scipy.org/doc/numpy/index.html
