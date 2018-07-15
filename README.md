@@ -19,6 +19,9 @@
   - Tutorials
     - https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
     - https://github.com/tpcarneiro/Python-Data-Science-and-Machine-Learning-Bootcamp   
+    - http://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tutorial/
+    - https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393
+    - https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning
   - Beginning
     - http://mariofilho.com/os-melhores-cursos-gratuitos-para-comecar-a-aprender-machine-learning-e-data-science/
   - General
@@ -28,6 +31,7 @@
       - https://www.coursera.org/learn/machine-learning
     - Paid :disappointed_relieved:
       - https://bigml.com/
+      - https://www.datacamp.com/home
   - Udacity focused
     - https://classroom.udacity.com/courses/ud170
     - https://classroom.udacity.com/courses/cs271
@@ -52,5 +56,15 @@
     - https://www.sequoiacap.com/article/visualizing-customer-experience/
     - https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
     - https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+    - https://blog.lateral.io/2015/06/the-unknown-perils-of-mining-wikipedia/
+    - https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions
+    - Concepts: https://coggle.it/diagram/WDv6ngnl8LgCdruw/t/statistical-thinking-in-python
   - E-books
     - https://www.packtpub.com/packt/offers/free-learning
+  - Youtube
+    - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+  
+**7. Library search**
+  - Numpy and Scipy: https://docs.scipy.org/doc/numpy/index.html
+  - Seaborn: https://seaborn.pydata.org/index.html
+  - Pandas: https://pandas.pydata.org/pandas-docs/stable/index.html
