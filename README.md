@@ -45,6 +45,7 @@
     - https://desafiodedados.com.br/#sobre
   - Kaggle focused
     - https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
+    - https://www.kaggle.com/mmetter/pokemon-data-analysis
 
 **6. Keeping up-to-date**
   - Websites
@@ -58,6 +59,7 @@
     - https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
     - https://blog.lateral.io/2015/06/the-unknown-perils-of-mining-wikipedia/
     - https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions
+    - https://medium.com/@gabrielcs/interpreting-ensemble-models-1ce54f380413
     - Concepts: https://coggle.it/diagram/WDv6ngnl8LgCdruw/t/statistical-thinking-in-python
   - E-books
     - https://www.packtpub.com/packt/offers/free-learning
