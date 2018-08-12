@@ -1,21 +1,26 @@
 # DataScience
 ## Data Science Links and Documents for Study
 
-**1. How to use Git and GitHub tutorial**
-- https://br.udacity.com/course/how-to-use-git-and-github--ud775
-- https://help.github.com/articles/basic-writing-and-formatting-syntax/
+**1. Starter**
+- Git and GitHub
+  - https://br.udacity.com/course/how-to-use-git-and-github--ud775
+  - https://help.github.com/articles/basic-writing-and-formatting-syntax/
+- Python 
+  - Python tutorial: https://docs.python.org/3/tutorial/
+  - PEP 8: Style Guide for Python code: https://www.python.org/dev/peps/pep-0008/
+- Video
+  - Data Science career evolution (Udacity Brasil): https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
+- Your best friend when in need
+  - https://stackoverflow.com/
 
-**2. Tera Bootcamp GitHub**
-- https://github.com/somostera
-
-**3. Data Scientist Guides**
+**2. Data Scientist Guides**
   - Career
     - http://blog.udacity.com/wp-content/uploads/2017/06/Data-Career-Guide-Udacity-2017-06-13.pdf
   - Skills
     - https://www.burtchworks.com/2014/11/17/must-have-skills-to-become-a-data-scientist/
     - https://www.burtchworks.com/2014/03/12/tips-for-hiring-data-scientists/
 
-**4. Data Science Courses**
+**3. Data Science Courses**
   - Tutorials
     - https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
     - https://github.com/tpcarneiro/Python-Data-Science-and-Machine-Learning-Bootcamp   
@@ -37,7 +42,7 @@
     - https://classroom.udacity.com/courses/cs271
     - https://br.udacity.com/course/intro-to-machine-learning--ud120
 
-**5. Data Science Practice**
+**4. Data Science Practice**
   - Websites
     - https://www.hackerrank.com/domains/ai?filters%5Bsubdomains%5D%5B%5D=machine-learning
     - https://www.kaggle.com/competitions
@@ -47,11 +52,14 @@
     - https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
     - https://www.kaggle.com/mmetter/pokemon-data-analysis
 
-**6. Keeping up-to-date**
+**5. Keeping up-to-date**
   - Websites
     - https://www.datascienceweekly.org/
     - https://machinelearningmastery.com/
     - https://www.dataiku.com/
+  - Blogs
+    - https://eli.thegreenplace.net/
+    - https://doughellmann.com/blog/
   - Articles
     - https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
     - https://www.sequoiacap.com/article/visualizing-customer-experience/
@@ -69,7 +77,14 @@
     - Python Course: https://www.youtube.com/watch?v=S9uPNppGsGo&t=6s
     - Udacity Interview Data Scientists: https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
   
-**7. Library search**
+**6. Library search**
   - Numpy and Scipy: https://docs.scipy.org/doc/numpy/index.html
   - Seaborn: https://seaborn.pydata.org/index.html
   - Pandas: https://pandas.pydata.org/pandas-docs/stable/index.html
+  - Python frameworks, libraries, software and resources: https://github.com/vinta/awesome-python
+  - Python 3.7 documentation: https://docs.python.org/3/index.html
+  - Python standard library: https://docs.python.org/3.7/library/index.html
+  - General Documentation Search: https://readthedocs.org/
+  
+**EXTRA. Tera Bootcamp GitHub**
+- https://github.com/somostera
