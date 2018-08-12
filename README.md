@@ -1,5 +1,5 @@
 # DataScience
-## Data Science Links and Documents for Study
+## Data Science Links and Documents for Study (Python Focused)
 
 **1. Starter**
 - Git and GitHub
@@ -34,6 +34,7 @@
       - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
       - https://coursera-career-track.mystagingwebsite.com/data-scientist/
       - https://www.coursera.org/learn/machine-learning
+      - Data handling: https://br.udacity.com/course/data-wrangling-with-mongodb--ud032
     - Paid :disappointed_relieved:
       - https://bigml.com/
       - https://www.datacamp.com/home
@@ -46,6 +47,7 @@
   - Websites
     - https://www.hackerrank.com/domains/ai?filters%5Bsubdomains%5D%5B%5D=machine-learning
     - https://www.kaggle.com/competitions
+    - General Language practicing: https://www.w3resource.com/
   - Hackatons
     - https://desafiodedados.com.br/#sobre
   - Kaggle focused
@@ -60,7 +62,8 @@
   - Blogs
     - https://eli.thegreenplace.net/
     - https://doughellmann.com/blog/
-  - Articles
+      - Extra: https://pymotw.com/3/
+  - Articles (needs revising for topics creation)
     - https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
     - https://www.sequoiacap.com/article/visualizing-customer-experience/
     - https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
@@ -69,6 +72,7 @@
     - https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions
     - https://medium.com/@gabrielcs/interpreting-ensemble-models-1ce54f380413
     - Concepts: https://coggle.it/diagram/WDv6ngnl8LgCdruw/t/statistical-thinking-in-python
+    - https://softwareengineering.stackexchange.com/questions/290231/when-should-i-use-a-generator-and-when-a-list-in-python/290235
   - E-books
     - https://www.packtpub.com/packt/offers/free-learning
   - Youtube
@@ -85,6 +89,19 @@
   - Python 3.7 documentation: https://docs.python.org/3/index.html
   - Python standard library: https://docs.python.org/3.7/library/index.html
   - General Documentation Search: https://readthedocs.org/
-  
-**EXTRA. Tera Bootcamp GitHub**
-- https://github.com/somostera
+  - Language functions understanding: https://www.w3schools.com/
+
+
+**7. SQL (in development)**
+- Relational Database Management Systems Comparison: https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
+- PostgreSQL: https://www.postgresql.org/
+- PostgreSQL documentation: https://www.postgresql.org/docs/9.1/static/index.html
+- Database normalization: https://www.itprotoday.com/microsoft-sql-server/sql-design-why-you-need-database-normalization
+- https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/
+- http://www.postgresqltutorial.com/postgresql-cast/
+
+**EXTRA**
+- Tera Bootcamp: https://github.com/somostera
+- Study Group: https://github.com/nightteatime/studygroup
+- Programming Text Editor: https://atom.io/
+  - For Python PEP 8 https://atom.io/packages/linter-python-pep8
