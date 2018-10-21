@@ -10,13 +10,13 @@
   - PEP 8: Style Guide for Python code: https://www.python.org/dev/peps/pep-0008/
 - Video
   - Data Science career evolution (Udacity Brasil): https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
+  - Tera & iFood Data Scientist interview: https://www.facebook.com/somostera/videos/560830497720239/
 - Your best friend when in need
   - https://stackoverflow.com/
 
 **2. Data Scientist Guides**
   - Career
     - Udacity: http://blog.udacity.com/wp-content/uploads/2017/06/Data-Career-Guide-Udacity-2017-06-13.pdf
-    - Tera: https://www.facebook.com/somostera/videos/560830497720239/
   - Skills
     - https://www.burtchworks.com/2014/11/17/must-have-skills-to-become-a-data-scientist/
     - https://www.burtchworks.com/2014/03/12/tips-for-hiring-data-scientists/
@@ -88,6 +88,7 @@
     - Python Course: https://www.youtube.com/watch?v=S9uPNppGsGo&t=6s
     - Udacity Interview Data Scientists: https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
     - t-SNE (explanation): https://www.youtube.com/watch?v=NEaUSP4YerM
+    - General: https://www.youtube.com/estathifisco
   
 **6. Library search**
   - Numpy and Scipy: https://docs.scipy.org/doc/numpy/index.html
