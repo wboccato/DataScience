@@ -15,7 +15,8 @@
 
 **2. Data Scientist Guides**
   - Career
-    - http://blog.udacity.com/wp-content/uploads/2017/06/Data-Career-Guide-Udacity-2017-06-13.pdf
+    - Udacity: http://blog.udacity.com/wp-content/uploads/2017/06/Data-Career-Guide-Udacity-2017-06-13.pdf
+    - Tera: https://www.facebook.com/somostera/videos/560830497720239/
   - Skills
     - https://www.burtchworks.com/2014/11/17/must-have-skills-to-become-a-data-scientist/
     - https://www.burtchworks.com/2014/03/12/tips-for-hiring-data-scientists/
@@ -31,9 +32,13 @@
     - http://mariofilho.com/os-melhores-cursos-gratuitos-para-comecar-a-aprender-machine-learning-e-data-science/
   - General
     - Free! :relieved:
-      - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
-      - https://coursera-career-track.mystagingwebsite.com/data-scientist/
-      - https://www.coursera.org/learn/machine-learning
+      - Open Machine Learning Course mlcourse.ai: https://mlcourse.ai/
+      - Udacity: - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
+                 - Intro to Data Science: https://classroom.udacity.com/courses/ud359
+      - Coursera: - https://coursera-career-track.mystagingwebsite.com/data-scientist/
+                  - https://www.coursera.org/learn/machine-learning
+      - Open Source Society University (Ossu): https://github.com/ossu/data-science
+      - Data Quest: https://www.dataquest.io/
       - Data handling: https://br.udacity.com/course/data-wrangling-with-mongodb--ud032
     - Paid :disappointed_relieved:
       - https://bigml.com/
@@ -75,11 +80,14 @@
     - https://softwareengineering.stackexchange.com/questions/290231/when-should-i-use-a-generator-and-when-a-list-in-python/290235
   - E-books
     - https://www.packtpub.com/packt/offers/free-learning
+    - Data Design: The Visual Display of Qualitative and Quantitative Information (link: https://www.amazon.com.br/Data-Design-Qualitative-Quantitative-Information-ebook/dp/B074L7PVXL?tag=goog0ef-20&smid=A18CNA8NWQSYHH&ascsubtag=go_1366271959_58245915327_265589414315_pla-476553242118_c_)
+    - Storytelling with Data: A Data Visualization Guide for Business Professionals (link: https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2)
   - Youtube
     - Linear Algebra: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
     - Google Developers: https://www.youtube.com/watch?v=cKxRvEZd3Mw&t=12s
     - Python Course: https://www.youtube.com/watch?v=S9uPNppGsGo&t=6s
     - Udacity Interview Data Scientists: https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
+    - t-SNE (explanation): https://www.youtube.com/watch?v=NEaUSP4YerM
   
 **6. Library search**
   - Numpy and Scipy: https://docs.scipy.org/doc/numpy/index.html
@@ -99,6 +107,7 @@
 - Database normalization: https://www.itprotoday.com/microsoft-sql-server/sql-design-why-you-need-database-normalization
 - https://community.modeanalytics.com/sql/tutorial/sql-string-functions-for-cleaning/
 - http://www.postgresqltutorial.com/postgresql-cast/
+- Subqueries: https://community.modeanalytics.com/sql/tutorial/sql-subqueries/
 
 **EXTRA**
 - Tera Bootcamp: https://github.com/somostera
