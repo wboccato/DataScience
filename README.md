@@ -8,13 +8,12 @@
 - Python 
   - Python tutorial: https://docs.python.org/3/tutorial/
   - PEP 8: Style Guide for Python code: https://www.python.org/dev/peps/pep-0008/
-  - Keyboard shortcuts: - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
-                        - https://shortcutworld.com/Jupyter-Notebook/win/Jupyter-Notebook_Shortcuts
+  - Jupyter Notebook keyboard shortcuts:
+    - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+    - https://shortcutworld.com/Jupyter-Notebook/win/Jupyter-Notebook_Shortcuts
 - Video
   - Data Science career evolution (Udacity Brasil): https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
   - Tera & iFood Data Scientist interview: https://www.facebook.com/somostera/videos/560830497720239/
-- Data Search
-  - https://www.theverge.com/2018/9/5/17822562/google-dataset-search-service-scholar-scientific-journal-open-data-access
 - Your best friend when in need
   - https://stackoverflow.com/
 
@@ -39,8 +38,9 @@
       - Open Machine Learning Course mlcourse.ai: https://mlcourse.ai/
       - Udacity: - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
                  - Intro to Data Science: https://classroom.udacity.com/courses/ud359
-      - Coursera: - https://coursera-career-track.mystagingwebsite.com/data-scientist/
-                  - https://www.coursera.org/learn/machine-learning
+      - Coursera: 
+        - https://coursera-career-track.mystagingwebsite.com/data-scientist/
+        - https://www.coursera.org/learn/machine-learning
       - Open Source Society University (Ossu): https://github.com/ossu/data-science
       - Data Quest: https://www.dataquest.io/
       - Data handling: https://br.udacity.com/course/data-wrangling-with-mongodb--ud032
