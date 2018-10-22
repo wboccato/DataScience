@@ -14,9 +14,6 @@
 - Video
   - Data Science career evolution (Udacity Brasil): https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
   - Tera & iFood Data Scientist interview: https://www.facebook.com/somostera/videos/560830497720239/
-- Books
-  - Data Science from Scratch - First Principles with Python (O'Relly): http://file.allitebooks.com/20150707/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python.pdf
-  - Data Science at the Command Line - Facing the Future with Time Tested Tools (O'Relly): https://www.datascienceatthecommandline.com/
 - Your best friend when in need
   - https://stackoverflow.com/
 
@@ -90,6 +87,9 @@
     - https://softwareengineering.stackexchange.com/questions/290231/when-should-i-use-a-generator-and-when-a-list-in-python/290235
   - E-books
     - https://www.packtpub.com/packt/offers/free-learning
+    - Data Science from Scratch - First Principles with Python (O'Relly): http://file.allitebooks.com/20150707/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python.pdf
+    - Data Science at the Command Line - Facing the Future with Time Tested Tools (O'Relly): https://www.datascienceatthecommandline.com/
+    - Data Science para Negócios: https://www.amazon.com.br/Science-Neg%C3%B3cios-Minera%C3%A7%C3%A3o-Pensamento-Anal%C3%ADtico/dp/8576089726
     - Data Design: The Visual Display of Qualitative and Quantitative Information (link: https://www.amazon.com.br/Data-Design-Qualitative-Quantitative-Information-ebook/dp/B074L7PVXL?tag=goog0ef-20&smid=A18CNA8NWQSYHH&ascsubtag=go_1366271959_58245915327_265589414315_pla-476553242118_c_)
     - Storytelling with Data: A Data Visualization Guide for Business Professionals (link: https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2)
   - Youtube
