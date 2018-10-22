@@ -14,6 +14,9 @@
 - Video
   - Data Science career evolution (Udacity Brasil): https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
   - Tera & iFood Data Scientist interview: https://www.facebook.com/somostera/videos/560830497720239/
+- Books
+  - Data Science from Scratch - First Principles with Python (O'Relly): http://file.allitebooks.com/20150707/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python.pdf
+  - Data Science at the Command Line - Facing the Future with Time Tested Tools (O'Relly): https://www.datascienceatthecommandline.com/
 - Your best friend when in need
   - https://stackoverflow.com/
 
