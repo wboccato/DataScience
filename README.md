@@ -8,9 +8,13 @@
 - Python 
   - Python tutorial: https://docs.python.org/3/tutorial/
   - PEP 8: Style Guide for Python code: https://www.python.org/dev/peps/pep-0008/
+  - Keyboard shortcuts: - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+                        - https://shortcutworld.com/Jupyter-Notebook/win/Jupyter-Notebook_Shortcuts
 - Video
   - Data Science career evolution (Udacity Brasil): https://www.youtube.com/watch?v=1wPmc8pZamA&t=1s
   - Tera & iFood Data Scientist interview: https://www.facebook.com/somostera/videos/560830497720239/
+- Data Search
+  - https://www.theverge.com/2018/9/5/17822562/google-dataset-search-service-scholar-scientific-journal-open-data-access
 - Your best friend when in need
   - https://stackoverflow.com/
 
