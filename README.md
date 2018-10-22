@@ -23,6 +23,8 @@
   - Skills
     - https://www.burtchworks.com/2014/11/17/must-have-skills-to-become-a-data-scientist/
     - https://www.burtchworks.com/2014/03/12/tips-for-hiring-data-scientists/
+  - Dataset
+    - https://www.theverge.com/2018/9/5/17822562/google-dataset-search-service-scholar-scientific-journal-open-data-access
 
 **3. Data Science Courses**
   - Tutorials
@@ -36,8 +38,9 @@
   - General
     - Free! :relieved:
       - Open Machine Learning Course mlcourse.ai: https://mlcourse.ai/
-      - Udacity: - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
-                 - Intro to Data Science: https://classroom.udacity.com/courses/ud359
+      - Udacity: 
+        - https://blog.udacity.com/2018/06/udacity-launches-free-career-courses.html
+        - Intro to Data Science: https://classroom.udacity.com/courses/ud359
       - Coursera: 
         - https://coursera-career-track.mystagingwebsite.com/data-scientist/
         - https://www.coursera.org/learn/machine-learning
