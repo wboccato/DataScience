@@ -109,6 +109,7 @@
   - Python standard library: https://docs.python.org/3.7/library/index.html
   - General Documentation Search: https://readthedocs.org/
   - Language functions understanding: https://www.w3schools.com/
+  - ML : https://github.com/trekhleb/homemade-machine-learning
 
 
 **7. SQL (in development)**
